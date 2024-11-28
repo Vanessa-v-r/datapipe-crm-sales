@@ -1,0 +1,28 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache files
+_pycache_/
+*.py[cod]
+
+# Ignore specific folders but keep .keep files
+luigi_pipeline/data/excel_files/
+!luigi_pipeline/data/excel_files/*.xlsx  # Keep specific Excel files like replacement_lists.xlsx
+
+luigi_pipeline/data/normalized/*
+!luigi_pipeline/data/normalized/.keep
+
+luigi_pipeline/data/processed/*
+!luigi_pipeline/data/processed/.keep
+
+luigi_pipeline/data/replaced/*
+
+luigi_pipeline/data/replacements/*
+!luigi_pipeline/data/replacements/.keep
+
+luigi_pipeline/data/transformed/*
+!luigi_pipeline/data/transformed/.keep
+
+# Ignore sensitive settings but keep a template
+luigi_pipeline/configs/settings.py
+!luigi_pipeline/configs/settings_template.py
