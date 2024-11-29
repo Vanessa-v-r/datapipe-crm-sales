@@ -17,6 +17,10 @@ luigi_pipeline/data/processed/*
 
 luigi_pipeline/data/replaced/*
 
+luigi_pipeline/data/raw/*
+!luigi_pipeline/data/raw/.keep
+
+
 luigi_pipeline/data/replacements/*
 !luigi_pipeline/data/replacements/.keep
 
