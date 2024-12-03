@@ -46,7 +46,6 @@ COLUMN_MAPPINGS = {
         "AGRI_PRODUCTS": "products_ad",
         "STATUS_MARKETS": "status",
         "CARGO": "contact_position",
-        # Removed duplicate key with trailing space
     },
     "db_experience": {
         "CLIENT": "company_name_old",
