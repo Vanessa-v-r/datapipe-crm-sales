@@ -57,7 +57,7 @@ COLUMN_MAPPINGS = {
         "AGRI_PRODUCTS": "products_ex",
         "EVENT_NAME": "events_experience"
     },
-    "all_deals_gaf25": {
+    "all_deals_GAFFFF25": {
         "RAZÃO SOCIAL": "company_name_new",
         "CPF/CNPJ": "company_cnpj",
         "WEBSITE": "company_website",
@@ -75,7 +75,7 @@ COLUMN_MAPPINGS = {
         "SECTOR": "company_sub_sector",
         "REGION": "company_state",
     },
-    "hunter_leads_gaf25": {
+    "hunter_leads_GAFFFF25": {
         "nome_empresa": "company_name_new",
         "CNPJ-CPF": "company_cnpj",
         "WEBSITE": "company_website",
@@ -92,7 +92,7 @@ COLUMN_MAPPINGS = {
         "SECTOR": "company_sub_sector",
         "REGION": "company_state",
     },
-    "client_deals": {
+    "client_deals_markets": {
         "NOME_EMPRESA": "company_name_new",
         "CPF/CNPJ": "company_cnpj",
         "WEBSITE": "company_website",
