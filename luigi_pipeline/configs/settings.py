@@ -31,7 +31,7 @@ BACKUPS_DIR = os.path.join(DATABASE_DIR, 'backups')
 
 # Selected databases
 SELECTED_DATABASES = {
-    #'3dbe9a740286479f90513cb93cdeb614': 'all_deals',
+    '3dbe9a740286479f90513cb93cdeb614': 'all_deals',
     '80e6f169a48c48459c0ff2b9f722947c': 'hunter_leads',
     '50def1fba524454f8546fd0692f2ea94': 'db_experience',
     '135789c14919805a94a8d38f1b575744' : 'hunter_leads_GAFFFF25',
