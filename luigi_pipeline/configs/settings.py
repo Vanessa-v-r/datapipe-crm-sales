@@ -36,7 +36,7 @@ SELECTED_DATABASES = {
     '50def1fba524454f8546fd0692f2ea94': 'db_experience',
     '135789c14919805a94a8d38f1b575744' : 'hunter_leads_GAFFFF25',
     '10e10a1d3d154aa8a59d6f6753d3da40' : 'all_deals_GAFFFF25',
-    '147789c1491980c09221ecd5920b750a' : 'clients deals markets'
+    '147789c1491980c09221ecd5920b750a' : 'client_deals_markets'
 }
 
 # Time zone settings

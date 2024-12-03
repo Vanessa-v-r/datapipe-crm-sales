@@ -30,3 +30,5 @@ luigi_pipeline/data/transformed/*
 # Ignore sensitive settings but keep a template
 luigi_pipeline/configs/settings.py
 !luigi_pipeline/configs/settings_template.py
+
+luigi_pipeline/logs/*.log
